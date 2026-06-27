@@ -1,0 +1,4 @@
+americo,12
+luiz,16
+juana,10
+maria,15
