@@ -1,4 +1,4 @@
-\#include <stdio.h>
+#include <stdio.h>
 
 void le_vetor(int *vet, int dimensao);
 
