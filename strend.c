@@ -29,9 +29,12 @@ int main(){
 	int  resultado;
 	char *pt1, *pt2;
 	char string1[] = "Joaomaria";
-	char string2[] = "a";
+	char string2[50];
 	pt1 = string1;
 	pt2 = string2;
+
+	printf("Escreva qualquer coisa e verifique se ele se encontra no final da palavra 'Joaomaria': ");
+	scanf("%s", pt2);
 
 	resultado = strend(pt1, pt2);
 
